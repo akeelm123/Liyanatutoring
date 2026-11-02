@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/TutorDesk_v1.1.html"
+    }
+  ]
+}
